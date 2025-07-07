@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## 무한한 도전과 성장을 꿈꾸는 개발자, 이제현 입니다.
 <!--
 **lyjh98/lyjh98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
